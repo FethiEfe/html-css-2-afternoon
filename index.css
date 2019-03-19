@@ -1,0 +1,91 @@
+body {
+    background: lightgray;
+    
+}
+
+nav {
+    padding: 0px 20px 0px 20px;
+    display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: space-between;
+	align-items: center;
+	align-content: stretch;
+}
+
+
+
+#logoText{
+    float: right;
+    margin-top: -10px ;
+    margin-left: 10px;
+    
+}
+
+
+#nav2 {
+    
+    width: 50vw;
+    display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: space-between;
+	align-items: center;
+	align-content: stretch;
+
+}
+
+#nav3 {
+    
+
+    width: 10vw;
+    display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: space-between;
+	align-items: center;
+	align-content: stretch;
+
+}
+
+
+nav a {
+  
+  color: black;
+  text-decoration: none;
+  
+}
+
+#linkedin {
+    background-color: black;
+    color: white;
+}
+
+.middle {
+   
+    text-align: center;
+    width: 75%;
+    margin: 200px auto ;
+    padding: 
+}
+
+
+#Title {
+    text-align: center;
+    font-size: 3em;
+    margin: 10px 0px 50px 0px;
+}
+
+#paragraph{
+    
+    margin: 0px 30% 50px 30%;
+}
+
+#explore{
+    width: 150px;
+    height: 75px;
+    background-color: red;
+    margin: 0px 100px;
+    border-radius: 20px;
+    color: white;
+}  
